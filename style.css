@@ -1,0 +1,75 @@
+ .container{
+   margin-bottom: 100px;
+    
+}  
+
+.one{
+    background-color:#2faf69;
+    border-radius: 50px;
+    padding: 2px 20px;
+      
+}
+.two{
+    color: #2faf69;
+}
+.h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.buy{
+    background-color: #2faf69;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 50px;
+    border: none;
+    font-size: 12px;
+}
+.carousel-inner{
+    padding: 20px 30px;
+    background-color:#d4f1ce ;
+    margin-bottom: 100px;
+}
+.card-one img{
+    height: 100px;
+    width: 100px;
+}
+.card-two img{
+    height: 100px;
+    width: 100px;
+}
+.card-three img{
+    height: 100px;
+    width: 100px;
+}
+.card-four img{
+    height: 100px;
+    width: 100px;
+}
+.div img{
+    height: 25px;
+    width: 20px;
+}
+.div-1 img{
+    height: 150px;
+    width: 150px;
+}
+
+#last{
+    background-color: rgb(32, 28, 28);
+    color: #fff;
+}
+#first{
+    
+}
+.l{
+    margin-top: 100px;
+}
+.end{
+    background-color: rgb(43, 40, 40);
+    color: #fff;
+    font-size: 20px;
+    padding: 60px 40px;
+    height: 400px;
+
+}
+
